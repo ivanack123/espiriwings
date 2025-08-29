@@ -447,6 +447,30 @@
                     "titulo": "Capítulo 82"
                 }
             ]
+        },
+        {
+            "nombre": "Abrázame muy fuerte",
+            "genero": "Drama",
+            "anio": 2000,
+            "reparto": [
+                "Aracely Arámbula",
+                "Fernando Colunga",
+                "Victoria Ruffo",
+                "César Évora",
+                "Nailea Norvind",
+                "Pablo Montero",
+                "Rossana San Juan"
+            ],
+            "pais_origen": "México, televisa",
+            "cantidad_episodios": 135,
+            "sinopsis": "Cristina es una muchacha dulce y tierna, querida por todos en “El Platanal”, una hermosa hacienda propiedad de Severiano Álvarez, su padre, hombre recio de campo y de gran carácter. En este lugar trabaja como capataz Diego Hernández, un criollo fuerte que se ha enamorado de Cristina, y ella, ante el amor que siente por Diego, se entrega a él.\n\nCristina confiesa a su padre estar embarazada y que ama a Diego. Severiano ordena que Cristina y Raquela, la sirvienta, se vayan a la capital y ahí tenga a la criatura. Por los manejos de Federico Rivero, la pequeña María del Carmen regresa a la hacienda como hija de Raquela. Cristina, por estar cerca de su hija, se ve obligada a casarse con Federico, un hombre despiadado y ambicioso. Y de ahora en adelante ella será para todos su “madrina”. Federico provoca un accidente en el que Cristina queda ciega; así, la fortuna de ella pasa a sus manos.",
+            "enlaces": [
+                {
+                    "idioma": "Español Latino",
+                    "enlace": "https://ia601600.us.archive.org/22/items/sermexua/abrazame-muy-fuerte.m4a"
+                }
+            ],
+            "capitulos": []
         }
     ]
 }
